@@ -1,0 +1,9 @@
+export { default as NavBar } from './navbar/NavBar';
+export { default as Header } from './header/Header';
+export { default as Footer } from './footer/Footer';
+export { default as Contact } from './contact/Contact';
+export { default as Education } from './education/Education';
+export { default as Experience } from './experience/Experience';
+export { default as Projects } from './projects/Projects';
+export { default as Achievements } from './achievements/Achievements';
+export { default as Research } from './research/Research';
