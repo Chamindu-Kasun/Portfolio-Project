@@ -1,0 +1,20 @@
+.about_section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 90%;
+    height: 100%;
+}
+
+.about_image_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about_description_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

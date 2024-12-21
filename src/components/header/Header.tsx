@@ -3,7 +3,7 @@ import HeaderContent from './HeaderContent'
 
 const Header:React.FC = () => {
   return (
-    <div>
+    <div className='header_section'>
         <HeaderContent/>
     </div>
   )
